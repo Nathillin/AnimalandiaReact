@@ -1,0 +1,32 @@
+h5{
+    color: #00B2B1;
+    text-shadow: 1px 1px 1px black;
+}
+
+p strong{
+    text-align: justify;
+}
+
+.card-body{
+    display: flex;
+    background-color: #ae95bb;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+
+.btn-primary{
+    background-color: #752995;
+    border: #752995;
+    width: 22vw;
+}
+
+.card{
+    height: 80vh;
+}
+
+.modal-body{
+    text-align: justify;
+    margin: 20px;
+}
